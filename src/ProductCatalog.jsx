@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { FiHeart, FiStar, FiFilter, FiX, FiChevronDown, FiSearch } from 'react-icons/fi';
-import products from './products';
+import products from './Products';
 
 // Animation Variants
 const cardVariants = {
